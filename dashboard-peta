@@ -1,0 +1,13 @@
+dashboard-peta/
+│
+├── css/
+│   └── style.css
+│
+├── beranda.html           (Beranda)
+├── peta-desa.html       (Peta Desa)
+├── peta-kecamatan.html  (Peta Kecamatan)
+├── tentang.html         (Tentang)
+│
+└── peta/
+    ├── peta-desa.html       (hasil export QGIS)
+    └── peta-kecamatan.html  (hasil export QGIS)
